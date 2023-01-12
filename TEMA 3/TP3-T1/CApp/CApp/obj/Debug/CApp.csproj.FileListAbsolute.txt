@@ -1,0 +1,7 @@
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T1\CApp\CApp\bin\Debug\CApp.exe.config
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T1\CApp\CApp\bin\Debug\CApp.exe
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T1\CApp\CApp\bin\Debug\CApp.pdb
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T1\CApp\CApp\obj\Debug\CApp.csproj.AssemblyReference.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T1\CApp\CApp\obj\Debug\CApp.csproj.CoreCompileInputs.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T1\CApp\CApp\obj\Debug\CApp.exe
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T1\CApp\CApp\obj\Debug\CApp.pdb
