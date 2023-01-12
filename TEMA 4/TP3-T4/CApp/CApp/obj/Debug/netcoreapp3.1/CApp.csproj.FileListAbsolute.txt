@@ -1,0 +1,10 @@
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T4\CApp\CApp\bin\Debug\netcoreapp3.1\CApp.deps.json
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T4\CApp\CApp\bin\Debug\netcoreapp3.1\CApp.dll
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T4\CApp\CApp\bin\Debug\netcoreapp3.1\CApp.pdb
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T4\CApp\CApp\obj\Debug\netcoreapp3.1\CApp.csproj.AssemblyReference.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T4\CApp\CApp\obj\Debug\netcoreapp3.1\CApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T4\CApp\CApp\obj\Debug\netcoreapp3.1\CApp.AssemblyInfoInputs.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T4\CApp\CApp\obj\Debug\netcoreapp3.1\CApp.AssemblyInfo.cs
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T4\CApp\CApp\obj\Debug\netcoreapp3.1\CApp.csproj.CoreCompileInputs.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T4\CApp\CApp\obj\Debug\netcoreapp3.1\CApp.dll
+F:\Documentos\Universidad\4. Estructura de Datos 1\TP3-T4\CApp\CApp\obj\Debug\netcoreapp3.1\CApp.pdb
