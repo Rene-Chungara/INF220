@@ -1,0 +1,10 @@
+F:\Documentos\Universidad\4. Estructura de Datos 1\TEMA 6\Lab1\cApp\cApp\bin\Debug\netstandard2.1\cApp.deps.json
+F:\Documentos\Universidad\4. Estructura de Datos 1\TEMA 6\Lab1\cApp\cApp\bin\Debug\netstandard2.1\cApp.dll
+F:\Documentos\Universidad\4. Estructura de Datos 1\TEMA 6\Lab1\cApp\cApp\bin\Debug\netstandard2.1\cApp.pdb
+F:\Documentos\Universidad\4. Estructura de Datos 1\TEMA 6\Lab1\cApp\cApp\obj\Debug\netstandard2.1\cApp.csproj.AssemblyReference.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\TEMA 6\Lab1\cApp\cApp\obj\Debug\netstandard2.1\cApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Documentos\Universidad\4. Estructura de Datos 1\TEMA 6\Lab1\cApp\cApp\obj\Debug\netstandard2.1\cApp.AssemblyInfoInputs.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\TEMA 6\Lab1\cApp\cApp\obj\Debug\netstandard2.1\cApp.AssemblyInfo.cs
+F:\Documentos\Universidad\4. Estructura de Datos 1\TEMA 6\Lab1\cApp\cApp\obj\Debug\netstandard2.1\cApp.csproj.CoreCompileInputs.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\TEMA 6\Lab1\cApp\cApp\obj\Debug\netstandard2.1\cApp.dll
+F:\Documentos\Universidad\4. Estructura de Datos 1\TEMA 6\Lab1\cApp\cApp\obj\Debug\netstandard2.1\cApp.pdb
