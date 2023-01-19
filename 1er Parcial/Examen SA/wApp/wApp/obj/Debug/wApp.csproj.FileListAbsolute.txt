@@ -1,0 +1,14 @@
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\bin\Debug\wApp.exe.config
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\bin\Debug\wApp.exe
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\bin\Debug\wApp.pdb
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\bin\Debug\cApp.dll
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\bin\Debug\cApp.pdb
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\obj\Debug\wApp.csproj.AssemblyReference.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\obj\Debug\wApp.Form1.resources
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\obj\Debug\wApp.Fsparce.resources
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\obj\Debug\wApp.Properties.Resources.resources
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\obj\Debug\wApp.csproj.GenerateResource.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\obj\Debug\wApp.csproj.CoreCompileInputs.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\obj\Debug\wApp.csproj.CopyComplete
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\obj\Debug\wApp.exe
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\Examen SA\wApp\wApp\obj\Debug\wApp.pdb
