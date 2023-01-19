@@ -1,0 +1,38 @@
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\cApp\bin\Debug\cApp.dll
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\cApp\bin\Debug\cApp.pdb
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\cApp\obj\Debug\cApp.dll
+D:\Ubaldo\uperez\Capacitacion\Catedras\Estruc Datos\Examenenes\1er Exa Laboratorio II 2013\ED -revision\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED v4\cApp\obj\Debug\ResolveAssemblyReference.cache
+D:\EDI\ED v4\cApp\obj\Debug\cApp.dll
+D:\EDI\ED v4\cApp\bin\Debug\cApp.dll
+D:\EDI\ED v4\cApp\bin\Debug\cApp.pdb
+D:\EDI\ED v4\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED v3\cApp\bin\Debug\cApp.dll
+D:\EDI\ED v3\cApp\bin\Debug\cApp.pdb
+D:\EDI\ED v3\cApp\obj\Debug\cApp.dll
+D:\EDI\ED v3\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED v3\cApp\obj\Debug\cApp.csproj.AssemblyReference.cache
+D:\EDI\ED v3\cApp\obj\Debug\cApp.csproj.CoreCompileInputs.cache
+D:\EDI\ED ex1 traspose\cApp\obj\Debug\cApp.csproj.CoreCompileInputs.cache
+D:\EDI\ED ex1 traspose\cApp\obj\Debug\cApp.dll
+D:\EDI\ED ex1 traspose\cApp\obj\Debug\cApp.pdb
+D:\EDI\ED ex1 traspose\cApp\bin\Debug\cApp.dll
+D:\EDI\ED ex1 traspose\cApp\bin\Debug\cApp.pdb
+D:\EDI\Examenes\ED ex1 Traspose - solucion\cApp\bin\Debug\cApp.dll
+D:\EDI\Examenes\ED ex1 Traspose - solucion\cApp\bin\Debug\cApp.pdb
+D:\EDI\Examenes\ED ex1 Traspose - solucion\cApp\obj\Debug\cApp.csproj.CoreCompileInputs.cache
+D:\EDI\Examenes\ED ex1 Traspose - solucion\cApp\obj\Debug\cApp.dll
+D:\EDI\Examenes\ED ex1 Traspose - solucion\cApp\obj\Debug\cApp.pdb
+D:\EDI\Examenes\ED ex1 Traspose\cApp\bin\Debug\cApp.dll
+D:\EDI\Examenes\ED ex1 Traspose\cApp\bin\Debug\cApp.pdb
+D:\EDI\Examenes\ED ex1 Traspose\cApp\obj\Debug\cApp.csproj.AssemblyReference.cache
+D:\EDI\Examenes\ED ex1 Traspose\cApp\obj\Debug\cApp.csproj.CoreCompileInputs.cache
+D:\EDI\Examenes\ED ex1 Traspose\cApp\obj\Debug\cApp.dll
+D:\EDI\Examenes\ED ex1 Traspose\cApp\obj\Debug\cApp.pdb
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\cApp\bin\Debug\cApp.dll
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\cApp\bin\Debug\cApp.pdb
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\cApp\obj\Debug\cApp.csproj.AssemblyReference.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\cApp\obj\Debug\cApp.csproj.CoreCompileInputs.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\cApp\obj\Debug\cApp.dll
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\cApp\obj\Debug\cApp.pdb
