@@ -1,0 +1,11 @@
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\bin\x64\Compi\wApp.exe
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\bin\x64\Compi\cApp.dll
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\bin\x64\Compi\cApp.pdb
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\obj\x64\Compi\wApp.csproj.AssemblyReference.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\obj\x64\Compi\wApp.fSpar.resources
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\obj\x64\Compi\wApp.menu.resources
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\obj\x64\Compi\wApp.Properties.Resources.resources
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\obj\x64\Compi\wApp.csproj.GenerateResource.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\obj\x64\Compi\wApp.csproj.CoreCompileInputs.cache
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\obj\x64\Compi\wApp.csproj.CopyComplete
+F:\Documentos\Universidad\4. Estructura de Datos 1\Parcial 1\ED ex1 1 2022 Tras SD\wApp\obj\x64\Compi\wApp.exe
